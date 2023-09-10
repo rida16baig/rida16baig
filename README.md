@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rida16baig
+- 👀 I’m interested in Web Development and Game Development Technologies
+- 🌱 I’m currently learning Full Stack web development...
+- 💞️ I’m looking to collaborate on any project that I am able to contribute to.
+- 📫 How to reach me, email:16ridabaig@gmail.com
