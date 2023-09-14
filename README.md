@@ -1,11 +1,7 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:4000/1*2pFIk1jnHExA1ZwsSDWaWg.jpeg)
 <h1 align="center">Hi 👋, I'm Rida Fatima</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnF3NGdidm1wZGh4cGU2ZnJ0b3dmNHo2cTU2ZXFhcGd1ZGV2ZGJ3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rida16baig&label=Profile%20views&color=0e75b6&style=flat" alt="rida16baig" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **REACT NATIVE**
 
@@ -15,6 +11,11 @@
 
 - 📫 How to reach me **16ridabaig@gmail.com**
 
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnF3NGdidm1wZGh4cGU2ZnJ0b3dmNHo2cTU2ZXFhcGd1ZGV2ZGJ3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rida16baig&label=Profile%20views&color=0e75b6&style=flat" alt="rida16baig" /> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rida16baig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rida16baig" height="30" width="40" /></a>
