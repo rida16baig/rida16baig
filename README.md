@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **REACT**
 
-- 👨‍💻 All of my projects are available at [https://ridabaig.com](https://ridabaig.com)
+- 👨‍💻 All of my projects are available at ([ridabaig.com](http://ridabaig.com/))
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, PHP**
 
