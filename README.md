@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [ridabaig.com](http://ridabaig.com/)
 
-- 💬 Ask me about **HTML, CSS, Javascript, PHP, Laravel**
+- 💬 Ask me about **HTML, CSS, Javascript, React JS PHP, Laravel**
 
 - 📫 How to reach me **16ridabaig@gmail.com**
 
