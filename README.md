@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:4000/1*2pFIk1jnHExA1ZwsSDWaWg.jpeg)
+![MasterHead]([https://miro.medium.com/v2/resize:fit:4000/1*2pFIk1jnHExA1ZwsSDWaWg.jpeg](https://media.licdn.com/dms/image/D4D16AQHvuT7YNqxY-A/profile-displaybackgroundimage-shrink_350_1400/0/1697436773152?e=1706745600&v=beta&t=Pjn00t5737OmdBv7HcA15_J1RHnJkbyceAoWWD6ZeG8))
 <h1 align="center">Hi 👋, I'm Rida Fatima</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
