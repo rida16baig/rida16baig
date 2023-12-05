@@ -1,4 +1,3 @@
-![MasterHead](/1697436773152%20(1).jpeg)
 <h1 align="center">Hi 👋, I'm Rida Fatima</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
